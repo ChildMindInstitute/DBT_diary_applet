@@ -11,269 +11,334 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "complete_homework",
-            "isAbout": "complete_homework"
-        },
-        {
-            "variableName": "socialize_others",
-            "isAbout": "socialize_others"
-        },
-        {
-            "variableName": "conflict_others",
-            "isAbout": "conflict_others"
-        },
-        {
-            "variableName": "conflict_others_number",
-            "isAbout": "conflict_others_number"
-        },
-        {
-            "variableName": "bed_time",
-            "isAbout": "bed_time"
-        },
-        {
-            "variableName": "wake_time",
-            "isAbout": "wake_time"
-        },
-        {
-            "variableName": "hours_slept",
-            "isAbout": "hours_slept"
-        },
-        {
-            "variableName": "shower_duration",
-            "isAbout": "shower_duration"
-        },
-        {
-            "variableName": "self_validation",
-            "isAbout": "self_validation"
-        },
-        {
-            "variableName": "emotion_mind_decisions_number",
-            "isAbout": "emotion_mind_decisions_number"
-        },
-        {
-            "variableName": "screen_time",
-            "isAbout": "screen_time"
-        },
-        {
-            "variableName": "meals_number",
-            "isAbout": "meals_number"
-        },
-        {
-            "variableName": "skin_picking_number",
-            "isAbout": "skin_picking_number"
-        },
-        {
-            "variableName": "suicide_urges",
-            "isAbout": "suicide_urges"
-        },
-        {
-            "variableName": "suicide_act",
-            "isAbout": "suicide_act"
-        },
-        {
-            "variableName": "self_harm_urges",
-            "isAbout": "self_harm_urges"
-        },
-        {
-            "variableName": "self_harm_act",
-            "isAbout": "self_harm_act"
-        },
-        {
-            "variableName": "impulsive_urges",
-            "isAbout": "impulsive_urges"
-        },
-        {
-            "variableName": "impulsive_urges_act",
-            "isAbout": "impulsive_urges_act"
-        },
-        {
-            "variableName": "picking_scratching_urges",
-            "isAbout": "picking_scratching_urges"
-        },
-        {
-            "variableName": "picking_scratching_act",
-            "isAbout": "picking_scratching_act"
-        },
-        {
-            "variableName": "planning_suicide_urges",
-            "isAbout": "planning_suicide_urges"
-        },
-        {
-            "variableName": "planning_suicide_act",
-            "isAbout": "planning_suicide_act"
-        },
-        {
-            "variableName": "purging_urges",
-            "isAbout": "purging_urges"
-        },
-        {
-            "variableName": "purging_act",
-            "isAbout": "purging_act"
-        },
-        {
-            "variableName": "restricting_urges",
-            "isAbout": "restricting_urges"
-        },
-        {
-            "variableName": "restricting_act",
-            "isAbout": "restricting_act"
-        },
-        {
-            "variableName": "binging_urges",
-            "isAbout": "binging_urges"
-        },
-        {
-            "variableName": "binging_act",
-            "isAbout": "binging_act"
-        },
-        {
-            "variableName": "lying_urges",
-            "isAbout": "lying_urges"
-        },
-        {
-            "variableName": "lying_act",
-            "isAbout": "lying_act"
-        },
-        {
-            "variableName": "lie_omission_urges",
-            "isAbout": "lie_omission_urges"
-        },
-        {
-            "variableName": "lie_omission_act",
-            "isAbout": "lie_omission_act"
-        },
-        {
-            "variableName": "skip_class_urges",
-            "isAbout": "skip_class_urges"
-        },
-        {
-            "variableName": "skip_class_act",
-            "isAbout": "skip_class_act"
-        },
-        {
-            "variableName": "drugs_urges",
-            "isAbout": "drugs_urges"
-        },
-        {
-            "variableName": "drugs_act",
-            "isAbout": "drugs_act"
-        },
-        {
-            "variableName": "alcohol_urges",
-            "isAbout": "alcohol_urges"
-        },
-        {
-            "variableName": "alcohol_act",
-            "isAbout": "alcohol_act"
-        },
-        {
-            "variableName": "self_harm_thoughts_urges",
-            "isAbout": "self_harm_thoughts_urges"
-        },
-        {
-            "variableName": "self_harm_thoughts_act",
-            "isAbout": "self_harm_thoughts_act"
-        },
-        {
-            "variableName": "smoking_urges",
-            "isAbout": "smoking_urges"
-        },
-        {
-            "variableName": "smoking_act",
-            "isAbout": "smoking_act"
-        },
-        {
-            "variableName": "verbally_agressive_urges",
-            "isAbout": "verbally_agressive_urges"
-        },
-        {
-            "variableName": "verbally_agressive_act",
-            "isAbout": "verbally_agressive_act"
-        },
-        {
-            "variableName": "physically_aggressive_urges",
-            "isAbout": "physically_aggressive_urges"
-        },
-        {
-            "variableName": "physically_aggressive_act",
-            "isAbout": "physically_aggressive_act"
-        },
-        {
-            "variableName": "stealing_urges",
-            "isAbout": "stealing_urges"
-        },
-        {
-            "variableName": "stealing_act",
-            "isAbout": "stealing_act"
-        },
-        {
-            "variableName": "avoidance_urges",
-            "isAbout": "avoidance_urges"
-        },
-        {
-            "variableName": "avoidance_act",
-            "isAbout": "avoidance_act"
-        },
-        {
-            "variableName": "withdrawing_urges",
-            "isAbout": "withdrawing_urges"
-        },
-        {
-            "variableName": "withdrawing_act",
-            "isAbout": "withdrawing_act"
-        },
-        {
-            "variableName": "ineffectively_seek_help_urges",
-            "isAbout": "ineffectively_seek_help_urges"
-        },
-        {
-            "variableName": "ineffectively_seek_help_act",
-            "isAbout": "ineffectively_seek_help_act"
-        },
-        {
-            "variableName": "skipping_meals_urge",
-            "isAbout": "skipping_meals_urge"
-        },
-        {
-            "variableName": "skipping_meals_act",
-            "isAbout": "skipping_meals_act"
-        },
-        {
-            "variableName": "calorie_counting_urge",
-            "isAbout": "calorie_counting_urge"
-        },
-        {
-            "variableName": "calorie_counting_act",
-            "isAbout": "calorie_counting_act"
-        },
-        {
-            "variableName": "risky_sexual_behaviors_urges",
-            "isAbout": "risky_sexual_behaviors_urges"
-        },
-        {
-            "variableName": "risky_sexual_behaviors_act",
-            "isAbout": "risky_sexual_behaviors_act"
-        },
-        {
-            "variableName": "avoidance_feelings_urges",
-            "isAbout": "avoidance_feelings_urges"
-        },
-        {
-            "variableName": "avoidance_feelings_act",
-            "isAbout": "avoidance_feelings_act"
-        },
-        {
-            "variableName": "avoidance_behaviors_urges",
-            "isAbout": "avoidance_behaviors_urges"
-        },
-        {
-            "variableName": "avoidance_behaviors_act",
-            "isAbout": "avoidance_behaviors_act"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "complete_homework",
+                "isAbout": "complete_homework",
+                "isVis": true
+            },
+            {
+                "variableName": "socialize_others",
+                "isAbout": "socialize_others",
+                "isVis": true
+            },
+            {
+                "variableName": "conflict_others",
+                "isAbout": "conflict_others",
+                "isVis": true
+            },
+            {
+                "variableName": "conflict_others_number",
+                "isAbout": "conflict_others_number",
+                "isVis": "conflict_others == 1"
+            },
+            {
+                "variableName": "bed_time",
+                "isAbout": "bed_time",
+                "isVis": true
+            },
+            {
+                "variableName": "wake_time",
+                "isAbout": "wake_time",
+                "isVis": true
+            },
+            {
+                "variableName": "hours_slept",
+                "isAbout": "hours_slept",
+                "isVis": true
+            },
+            {
+                "variableName": "shower_duration",
+                "isAbout": "shower_duration",
+                "isVis": true
+            },
+            {
+                "variableName": "self_validation",
+                "isAbout": "self_validation",
+                "isVis": true
+            },
+            {
+                "variableName": "emotion_mind_decisions_number",
+                "isAbout": "emotion_mind_decisions_number",
+                "isVis": true
+            },
+            {
+                "variableName": "screen_time",
+                "isAbout": "screen_time",
+                "isVis": true
+            },
+            {
+                "variableName": "meals_number",
+                "isAbout": "meals_number",
+                "isVis": true
+            },
+            {
+                "variableName": "skin_picking_number",
+                "isAbout": "skin_picking_number",
+                "isVis": true
+            },
+            {
+                "variableName": "suicide_urges",
+                "isAbout": "suicide_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "suicide_act",
+                "isAbout": "suicide_act",
+                "isVis": true
+            },
+            {
+                "variableName": "self_harm_urges",
+                "isAbout": "self_harm_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "self_harm_act",
+                "isAbout": "self_harm_act",
+                "isVis": true
+            },
+            {
+                "variableName": "impulsive_urges",
+                "isAbout": "impulsive_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "impulsive_urges_act",
+                "isAbout": "impulsive_urges_act",
+                "isVis": true
+            },
+            {
+                "variableName": "picking_scratching_urges",
+                "isAbout": "picking_scratching_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "picking_scratching_act",
+                "isAbout": "picking_scratching_act",
+                "isVis": true
+            },
+            {
+                "variableName": "planning_suicide_urges",
+                "isAbout": "planning_suicide_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "planning_suicide_act",
+                "isAbout": "planning_suicide_act",
+                "isVis": true
+            },
+            {
+                "variableName": "purging_urges",
+                "isAbout": "purging_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "purging_act",
+                "isAbout": "purging_act",
+                "isVis": true
+            },
+            {
+                "variableName": "restricting_urges",
+                "isAbout": "restricting_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "restricting_act",
+                "isAbout": "restricting_act",
+                "isVis": true
+            },
+            {
+                "variableName": "binging_urges",
+                "isAbout": "binging_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "binging_act",
+                "isAbout": "binging_act",
+                "isVis": true
+            },
+            {
+                "variableName": "lying_urges",
+                "isAbout": "lying_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "lying_act",
+                "isAbout": "lying_act",
+                "isVis": true
+            },
+            {
+                "variableName": "lie_omission_urges",
+                "isAbout": "lie_omission_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "lie_omission_act",
+                "isAbout": "lie_omission_act",
+                "isVis": true
+            },
+            {
+                "variableName": "skip_class_urges",
+                "isAbout": "skip_class_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "skip_class_act",
+                "isAbout": "skip_class_act",
+                "isVis": true
+            },
+            {
+                "variableName": "drugs_urges",
+                "isAbout": "drugs_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "drugs_act",
+                "isAbout": "drugs_act",
+                "isVis": true
+            },
+            {
+                "variableName": "alcohol_urges",
+                "isAbout": "alcohol_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "alcohol_act",
+                "isAbout": "alcohol_act",
+                "isVis": true
+            },
+            {
+                "variableName": "self_harm_thoughts_urges",
+                "isAbout": "self_harm_thoughts_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "self_harm_thoughts_act",
+                "isAbout": "self_harm_thoughts_act",
+                "isVis": true
+            },
+            {
+                "variableName": "smoking_urges",
+                "isAbout": "smoking_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "smoking_act",
+                "isAbout": "smoking_act",
+                "isVis": true
+            },
+            {
+                "variableName": "verbally_agressive_urges",
+                "isAbout": "verbally_agressive_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "verbally_agressive_act",
+                "isAbout": "verbally_agressive_act",
+                "isVis": true
+            },
+            {
+                "variableName": "physically_aggressive_urges",
+                "isAbout": "physically_aggressive_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "physically_aggressive_act",
+                "isAbout": "physically_aggressive_act",
+                "isVis": true
+            },
+            {
+                "variableName": "stealing_urges",
+                "isAbout": "stealing_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "stealing_act",
+                "isAbout": "stealing_act",
+                "isVis": true
+            },
+            {
+                "variableName": "avoidance_urges",
+                "isAbout": "avoidance_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "avoidance_act",
+                "isAbout": "avoidance_act",
+                "isVis": true
+            },
+            {
+                "variableName": "withdrawing_urges",
+                "isAbout": "withdrawing_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "withdrawing_act",
+                "isAbout": "withdrawing_act",
+                "isVis": true
+            },
+            {
+                "variableName": "ineffectively_seek_help_urges",
+                "isAbout": "ineffectively_seek_help_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "ineffectively_seek_help_act",
+                "isAbout": "ineffectively_seek_help_act",
+                "isVis": true
+            },
+            {
+                "variableName": "skipping_meals_urge",
+                "isAbout": "skipping_meals_urge",
+                "isVis": true
+            },
+            {
+                "variableName": "skipping_meals_act",
+                "isAbout": "skipping_meals_act",
+                "isVis": true
+            },
+            {
+                "variableName": "calorie_counting_urge",
+                "isAbout": "calorie_counting_urge",
+                "isVis": true
+            },
+            {
+                "variableName": "calorie_counting_act",
+                "isAbout": "calorie_counting_act",
+                "isVis": true
+            },
+            {
+                "variableName": "risky_sexual_behaviors_urges",
+                "isAbout": "risky_sexual_behaviors_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "risky_sexual_behaviors_act",
+                "isAbout": "risky_sexual_behaviors_act",
+                "isVis": true
+            },
+            {
+                "variableName": "avoidance_feelings_urges",
+                "isAbout": "avoidance_feelings_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "avoidance_feelings_act",
+                "isAbout": "avoidance_feelings_act",
+                "isVis": true
+            },
+            {
+                "variableName": "avoidance_behaviors_urges",
+                "isAbout": "avoidance_behaviors_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "avoidance_behaviors_act",
+                "isAbout": "avoidance_behaviors_act",
+                "isVis": true
+            }
+        ],
         "order": [
             "complete_homework",
             "socialize_others",
@@ -341,73 +406,6 @@
             "avoidance_behaviors_urges",
             "avoidance_behaviors_act"
         ],
-        "shuffle": false,
-        "visibility": {
-            "complete_homework": true,
-            "socialize_others": true,
-            "conflict_others": true,
-            "conflict_others_number": "conflict_others == 1",
-            "bed_time": true,
-            "wake_time": true,
-            "hours_slept": true,
-            "shower_duration": true,
-            "self_validation": true,
-            "emotion_mind_decisions_number": true,
-            "screen_time": true,
-            "meals_number": true,
-            "skin_picking_number": true,
-            "suicide_urges": true,
-            "suicide_act": true,
-            "self_harm_urges": true,
-            "self_harm_act": true,
-            "impulsive_urges": true,
-            "impulsive_urges_act": true,
-            "picking_scratching_urges": true,
-            "picking_scratching_act": true,
-            "planning_suicide_urges": true,
-            "planning_suicide_act": true,
-            "purging_urges": true,
-            "purging_act": true,
-            "restricting_urges": true,
-            "restricting_act": true,
-            "binging_urges": true,
-            "binging_act": true,
-            "lying_urges": true,
-            "lying_act": true,
-            "lie_omission_urges": true,
-            "lie_omission_act": true,
-            "skip_class_urges": true,
-            "skip_class_act": true,
-            "drugs_urges": true,
-            "drugs_act": true,
-            "alcohol_urges": true,
-            "alcohol_act": true,
-            "self_harm_thoughts_urges": true,
-            "self_harm_thoughts_act": true,
-            "smoking_urges": true,
-            "smoking_act": true,
-            "verbally_agressive_urges": true,
-            "verbally_agressive_act": true,
-            "physically_aggressive_urges": true,
-            "physically_aggressive_act": true,
-            "stealing_urges": true,
-            "stealing_act": true,
-            "avoidance_urges": true,
-            "avoidance_act": true,
-            "withdrawing_urges": true,
-            "withdrawing_act": true,
-            "ineffectively_seek_help_urges": true,
-            "ineffectively_seek_help_act": true,
-            "skipping_meals_urge": true,
-            "skipping_meals_act": true,
-            "calorie_counting_urge": true,
-            "calorie_counting_act": true,
-            "risky_sexual_behaviors_urges": true,
-            "risky_sexual_behaviors_act": true,
-            "avoidance_feelings_urges": true,
-            "avoidance_feelings_act": true,
-            "avoidance_behaviors_urges": true,
-            "avoidance_behaviors_act": true
-        }
+        "shuffle": false
     }
 }

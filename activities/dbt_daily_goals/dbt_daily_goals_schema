@@ -11,37 +11,35 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "important_events",
-            "isAbout": "important_events"
-        },
-        {
-            "variableName": "daily_goal",
-            "isAbout": "daily_goal"
-        },
-        {
-            "variableName": "goal_achieve",
-            "isAbout": "goal_achieve"
-        },
-        {
-            "variableName": "goal_obstacles",
-            "isAbout": "goal_obstacles"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "important_events",
+                "isAbout": "important_events",
+                "isVis": true
+            },
+            {
+                "variableName": "daily_goal",
+                "isAbout": "daily_goal",
+                "isVis": true
+            },
+            {
+                "variableName": "goal_achieve",
+                "isAbout": "goal_achieve",
+                "isVis": true
+            },
+            {
+                "variableName": "goal_obstacles",
+                "isAbout": "goal_obstacles",
+                "isVis": "goal_achieve == 2 || goal_achieve == 0"
+            }
+        ],
         "order": [
             "important_events",
             "daily_goal",
             "goal_achieve",
             "goal_obstacles"
         ],
-        "shuffle": false,
-        "visibility": {
-            "important_events": true,
-            "daily_goal": true,
-            "goal_achieve": true,
-            "goal_obstacles": "goal_achieve == 2 || goal_achieve == 0"
-        }
+        "shuffle": false
     }
 }
