@@ -14,7 +14,7 @@ const branchName = 'master'
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "Record your daily progress with Dialectical Behavorial Therapy"
+let protocolDescription = "Record your daily progress with Dialectical Behavioral Therapy"
 
 //4. where are you hosting your images?
 let imagePath = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}/images/png/`
